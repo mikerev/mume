@@ -4,6 +4,6 @@ Send MUME events to SMS text messages via Twilio
 
 ## Dependencies
 
-```bash
+```console
 pip install twilio
 ```
